@@ -1,0 +1,63 @@
+{
+
+	"APP_KEY": "bfm298E8E88",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "357fvj65666545",
+	"APPLOVIN_INTERSTITIAL_ID": "45fve1q35420578st434",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"6hyi3d465C34d3543f23db4",
+	"ENABLE_ONBACK_ADS":false,
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "74062",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 1,
+
+	"MoreApps": "193650",
+
+	"popAppLink": "https://coinmarketcap.com/",
+	"popAppName": "install app",
+	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
+	"popAppPackage": "com.reservshop.rehopping",
+	"popAppIsActive": false,
+	"Interval_Time":60000, 
+
+	"isPage1Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
+    	//content Page 4
+	"textPage4":"choose yes or no",
+	"button1Page4":"yes",
+	"button2Page4":"no",
+	"isPage5Activate": false,
+		//content Page 5
+	"textPage5":"choose boy or girl",
+	"button1Page5":"boy",
+	"button2Page5":"girl",
+	
+	"isPage6Activate": false,
+	
+	//cpa image banner
+    "Visibility_image_cpa":false,
+    "Url_Image_Cpa":"https://www.google.com/",
+    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+
+	"URLs": [
+
+		{
+			"title": "Zest Cooking",
+			"image": "https://raw.githubusercontent.com/HaytamFrh/zestimg/main/logo.png",
+			"url": "https://"
+		}
+		
+
+	]
+
+}
