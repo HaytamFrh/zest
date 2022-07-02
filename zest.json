@@ -7,17 +7,17 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "357fvj65666545",
-	"APPLOVIN_INTERSTITIAL_ID": "45fve1q35420578st434",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"6hyi3d465C34d3543f23db4",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_BANNER_ID": "5d858de3f987938a",
+	"APPLOVIN_INTERSTITIAL_ID": "1f77b019b8153722",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"1f77b019b8153722",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "74062",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "193650",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "Zest Cooking",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/zestimg/main/logo.png",
-			"url": "https://"
+			"url": "https://www.beta.zestcooking.com/"
 		}
 		
 
